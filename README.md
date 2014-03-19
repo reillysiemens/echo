@@ -1,9 +1,9 @@
-Echo Servers
-============
+Echo
+====
 
-####A collection of simple echo servers written in various languages.
+####Echo is a collection of simple echo servers written in various languages.
 
-#####Supported Languages
+######Supported Languages
 
 * C
 * Clojure
